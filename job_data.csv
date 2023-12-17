@@ -1,0 +1,44 @@
+﻿company;job_description;location
+Altran;"Responsibilities: 
+    - Full stack development (PERN) with React (Material UI), Nodejs (express) Graphql and ORM (with postgreSQL), JWT and Typescript.
+    - others Docker, C# (MVVC), GO
+    - Webscraper & excel Parser, feeder of databases";Hamburg, Germany
+Self-employed / Freelancing;"- Elternfreund - Ssartup based on a platform to put in contact parents and babysitters in Germany. Develop with meteor.js/mongodb
+    - OPTRetina - angularjs/PHP project to manage the user platform for opticians.
+    - Development of CRM based web page using PHP and MySQL, designed to consult and modify information in a SME databases";Lisbon, Portugal
+Inetum;"    - Server-side development (J2EE, Spring, Primefaces, Apache Tomcat)
+    - Client-side development (JavaScript / JQuery / AngularJS with Grunt)
+    - Layout (CSS3 with SASS / Compass)
+    - Static web generation (Middleman)";Madrid, Spain
+Shropshire Council;"    - Develop and manage Shropshire Councils / Schools websites as part of Digital Services team,
+    - Used technologies: Umbraco CMS, C#, ASP.NET, Azure / Azure DevOps / CI-CD, LetsEncrypt, HTML 5, CSS3, AngularJS and JQuery.";Shrewsbury, United Kingdom
+Dedalus HealthCare;"- Develop and deploy data and cloud products for a modern cloud data platform
+  - Automation of pipeline to provide data sources for data warehouse
+  - Development of a web-based medical image viewer
+  - Maintaining and developing multiple applications (React, NextJS, Express, PostreSQL)";Vienna, Austria
+Unumbox Ltd;"    - Responsible for build and maintenance of a custom CMS web-learning platform from scratch
+    - Involved across both front-end and back-end of a MERN stack by turning Figma designs into code to deliver desired functionality, look & feel
+    - Taking part in daily stand-ups and attended client meetings
+    - My other responsibilities include, but are not limited to, reviewing other developers code, adhering to best coding standards and maintaining relevant documentation";London, United Kingdom
+DAZN;"    - Build and maintain scalable microservices
+    - Write maintainable, robust and testable code
+    - Evolve and design services that power and monitor video streaming
+    - Backend written in JavaScript and TypeScript
+    - Occasional help for frontend product team in React";Milan, Italy
+Sainsbury's;"    - Two large projects migrating from legacy monolith to a server side rendered React/Redux app and to a backed by Go microservices
+    - Took ownership of the creation of several Node.js / Express REST APIs
+    - Wrote tests with Jest, TestCafe and Nightwatch, and ensured high test coverage
+    - Worked with Docker, Kubernetes and AWS services such as EC2, RDS, ECR, ECS (Fargate), S3 and CloudWatch";London, United Kingdom
+TIER Mobility;"- Tool Box: Kotlin, Maven, Spring, Postgres, Artefacts, Kubernetes, Gafana
+- Launch new B2B mobility products to generate new revenue streams 
+- Design APIs for scooter/carsharing integration into the existing platform
+- Implemented driver license validation microservice using 3rd party provider (Onfido)
+- Monitoring of services to measure and improve performance management";Berlin, Germany
+Spotify;"    - worked on Encore, Spotify's internal design system, working with designers to build React components used across the entire company
+    - Migration from DataProc to DataFlow for provider API suite
+    - Implemented and maintained integration tests for  play.stopitfy.com in Selenium
+    - Working on the frontend of open.spotify.com in JavaScript/React";London, England
+Klarna;"    - Introduced randomised unit tests for numerous jobs ensuring greater test data depth
+    - Rewrote an internal api built in python and deployed on AWS Lambda using serverless
+    - Created React components from design templates to be used on main paynent platform used by millions daily
+    - Main tools used: GraphQL, Apollo, NextJS, React, PostgreSQL, Python";Berlin, Germany
