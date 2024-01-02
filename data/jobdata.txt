@@ -1,0 +1,6 @@
+Timestamp	First Name	Middle Name (Optional)	Last Name	Gender	Age	Email	Phone	City	Highest Qualification	Passing Year	Highest Qualification %	Current Company	Total Work Experience (Years)	Skills	Institution Name	Upload Resume
+12-19-2023 10:45:43	Digonta		Bose	Male	26	digontabose@gmail.com	9432201183	Kolkata 	M.tech(cse)	03-06-2024	85.6		1	"Java,C,Python,Mysql,DL/ML"	Narula Institute of Technology	https://drive.google.com/open?id=1eM2F1bXRu1Y-sMRR2J1SkJc5sJJYG_oA
+12-19-2023 21:14:04	Anand		Kumar 	Male	25	anandghb@gmail.com	8949093403	Bangalore 	BE	06-10-2021	65	Cyberjeet Pvt. Ltd.	1	"CCNA, CCNP, Palo Alto Firewall "	Sambhram Institute of Technology	
+12-19-2023 21:34:48	Nowshad 	Ahmad	Dar	Male	26	mehrandar75@gmail.com	9149791345	Srinagar	BE	10-08-2021	60		1	"Html, css, bootstrap, angular, sass, typescript, java, java script, mysql"	Sambhram Institute of technology	
+12-20-2023 15:46:13	Anilavo		Chatterjee	Male	25	anilavo.chatterjee53@gmail.com	9123352567	Kolkata	BTech	10-07-2021	78.5	Infosys pvt ltd	2.3	"Java,Html,Spring MVC"	Narula Institute of Technology	
+12-20-2023 18:05:37	Abdullah 	Izedin	Alkinani	Male	28	Izedin2017@gmail.com	7892500843	Med	Bachelor	20-12-2022	60	Freelance	1	"Html ,css , javascript,react js"	Sambhram Institute of Technology	https://drive.google.com/open?id=1Ai3Hrm3X4_tM6ng1EnZ43aQbSVPZJnZp
